@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "忘れっぽい天使",
+  "base_artist": "中村佳穂",
+  "createdAt": "2026-03-06T10:07:29.680266Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "忘れっぽい天使",
+      "artist": "Kaho Nakamura",
+      "has_synced": true,
+      "path": "select/01_忘れっぽい天使_Kaho_Nakamura.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "忘れっぽい天使",
+      "artist": "中村佳穂",
+      "has_synced": false,
+      "path": "select/pl_01_忘れっぽい天使_中村佳穂.txt"
+    }
+  ]
+}
